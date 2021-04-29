@@ -1,4 +1,4 @@
- validarDatos() {
+ function validarDatos() {
  	var variable = true;
 
  		if(!document.form.nombre.value){
