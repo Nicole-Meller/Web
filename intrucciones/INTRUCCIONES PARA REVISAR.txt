@@ -1,0 +1,7 @@
+-crear base de datos con nombre "SILVA"
+-crear tabla de llamada "datos" con 3 datos a ingresar, "nombre","apellidop"(apellido paterno),"apellidom"(apellido materno).
+-ingresar a http://localhost/SILVA/form.html para ver el formulario e ingresar datos.
+-corroborar mediante appserv si los datos fueron ingresados exitosamente!.
+
+
+-Prueba de Cristobal Silva.
